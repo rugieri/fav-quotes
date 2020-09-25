@@ -1,2 +1,2 @@
-web: gunicorn quotes:app --preload
+web: gunicorn quotes:app 
 
