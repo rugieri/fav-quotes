@@ -1,19 +1,3 @@
-#<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -31,12 +15,7 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/rugieri/fav-quotes">
-    <img src="../Desktop/fmsquotes.jpg" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">fav-quotes</h3>
 
@@ -76,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[Imgur](https://i.imgur.com/7dO3RAH.jpg) https://dashboard.heroku.com/apps/fmsquotes
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -85,10 +64,10 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [x](python)
-* [x](flask)
-* [x](bootstrap)
-* [x](postgresql)
+[x](python)
+[x](flask)
+[x](bootstrap)
+[x](postgresql)
 
 
 
